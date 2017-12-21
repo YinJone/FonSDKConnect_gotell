@@ -1,0 +1,6 @@
+framework module FonSDKConnect {
+  umbrella header "FonSDKConnect.h"
+
+  export *
+  module * { export * }
+}
